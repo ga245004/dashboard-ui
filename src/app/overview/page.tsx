@@ -12,9 +12,9 @@ import {
   CoreChartOptions,
 } from 'chart.js';
 import { faker } from '@faker-js/faker';
-import * as Utils from "../utils/Utils"
+import * as Utils from "../../utils/Utils"
 import { ArcElement } from "chart.js/auto";
-import { Icon } from "../components/Icon";
+import { Icon } from "@/components/Icon";
 
 
 export default function Home() {
